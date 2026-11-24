@@ -1,6 +1,5 @@
-# UFP0007-M01147209
+# Lab equipment loans 
+UFP0007 option B. A program to managing lab equipment student loans
 
-I chose Option B – Lab Equipment Loans. My program will track which lab items are available and which are on loan.
-
-## How to run the program
-Once the program is ready, open a terminal in the project folder and run `python main.py`.
+## Run 
+Open a terminal in the project folder and run 'py main.py'. use the menu to view, find, lend, or return equipment and list overdue loans. Choose 0 to save to equipment.csv and exit. 
