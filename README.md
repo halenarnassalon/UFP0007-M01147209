@@ -1,6 +1,8 @@
-# UFP0007-M01147209
+# Lab eqipment loans
 
-I chose Option B – Lab Equipment Loans. My program will track which lab items are available and which are on loan.
+UFP0007 Software Development Project - option B
 
-## How to run the program
-Once the program is ready, open a terminal in the project folder and run `python main.py`.
+This Python program tracks laptops and cameras in a lab. The lab teacher can lend equipment, record returns and check overdue loans. 
+
+## How to run 
+Open code file
