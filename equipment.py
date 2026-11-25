@@ -29,3 +29,9 @@ class Equipment:
 
     def loan_days(self):
         return 1
+class Laptop(Equipment):
+    def loan_days(self):
+        return 7
+class Camera(Equipment):
+    def loan_days(self):
+        return 14 
